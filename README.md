@@ -226,10 +226,11 @@ The `.pbix` file contains a 3-page interactive dashboard built on `Retail_Cohort
 - **Line charts** — visualise retention decay curves per cohort over time
 - **Pivot table** — raw customer counts by CohortMonth and date hierarchy
 
+<img width="1920" height="1019" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/df239498-dce9-4f76-bce6-ce5e88c43c85" />
 
 
 ---
-<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/68bd5c3f-ce28-4e23-a6c3-6c8ed82b25b6" />
+
 
 ## Skills Demonstrated
 
