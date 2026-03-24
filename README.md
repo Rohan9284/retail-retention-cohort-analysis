@@ -219,8 +219,7 @@ The `.pbix` file contains a 3-page interactive dashboard built on `Retail_Cohort
 | Page | Contents |
 |------|----------|
 | **Page 1** | Cohort pivot table, retention line chart by cohort age, Country slicer |
-| **Page 2** | Detailed retention line chart — customer count vs. CohortIndex |
-| **Page 3** | Country filter slicer for cross-segment comparison |
+
 
 **Key interactive features:**
 - **Country slicer** — filter all visuals by geography (e.g., UK-only vs. international)
